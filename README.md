@@ -1,5 +1,5 @@
 # Modern Form with typing effect
-Pure javascript typing animation with taking input data from user
+Pure javascript typing animation with tuser input
 
 ## Demo
 See demo: https://uttamuk.github.io/NewForm/
