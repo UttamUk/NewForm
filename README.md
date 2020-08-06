@@ -2,7 +2,7 @@
 Pure javascript typing animation with user inputs.
 
 ## Demo
-See demo: https://uttamuk.github.io/NewForm/
+See demo: [Modern Form Demo](https://uttamuk.github.io/NewForm/)
 
 ### ScreenShots
 ![form](https://user-images.githubusercontent.com/33575994/89508424-89f45900-d7eb-11ea-908c-c5350d0c736d.png)
